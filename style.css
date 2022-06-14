@@ -1,0 +1,46 @@
+body{
+  margin: 90px;
+  padding: 0;
+  background-color: grey;
+}
+h1{
+  text-align:center;
+}
+a{
+  color: red;
+}
+
+h2{
+  color:red;
+}
+.tab{
+  background-color: white;
+}
+.machine{
+  background: black;
+  padding: 20px;
+  color:white;
+  border: solid red;
+  border-radius:10px;
+}
+img{
+    width:100%;
+  height:auto;
+}
+h3{
+  color: red;
+}
+.dernier{
+  border: dashed 5px blue ;
+  color: blue;
+  margin: 10px;
+padding: 10px;
+background-color: grey;
+}
+#table{
+}
+# table{
+  border-collapse:collapse;
+  position: relative;
+}
+ tr:hover{background-color:#1c79ca}
